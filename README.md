@@ -15,7 +15,7 @@ Hello. New to Linux, github, and cloud stuff.
 
 ### Setting up GitHub
 
-First thing I did was make a GitHub account and set up this repo so I could keep track of everything.
+First thing I did was make a GitHub account because otherwise I can't write this.
 
 What I did:
 - Signed up for GitHub
@@ -38,7 +38,7 @@ git push
 
 ### Installing Ubuntu with VirtualBox
 
-I installed Ubuntu as a virtual machine so I didn't have to touch my actual PC.
+I installed Ubuntu in VirtualBox so I didn't have to touch my actual PC or destroy it.
 
 What I did:
 - Downloaded the Ubuntu ISO from ubuntu.com
