@@ -49,7 +49,8 @@ What I did:
 `![VM setup](images/vm-setup.png)`
 
 **What I learned / issues I hit:**
-> _(Lots of issues, lots of freezing on loading screen. It's a hassle. I had to use 8000mb and 4 cores with 128 video memory to get it to work.)_
+> _(Lots of issues, lots of freezing on loading screen. It's a hassle. I had to use 8000mb and 4 cores with 128 video memory to get it to work. In the end, I got it to work with lots of effort.)_
+<img width="1277" height="796" alt="Screenshot 2026-09-13 150338" src="https://github.com/user-attachments/assets/c2594dad-a2e2-4392-8b32-7e79d6f75be6" />
 
 ---
 
